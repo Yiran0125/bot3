@@ -1,12 +1,12 @@
 {
   "name": "minecraft afk bot",
   "version": "2.1",
-  "description": "Afk bot for minecraft servers.",
+  "description": "afk bot for minecraft servers.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"error: no test specified\" && exit 1"
   },
-  "author": "Lamgerr",
+  "author": "lamgerr",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1",
